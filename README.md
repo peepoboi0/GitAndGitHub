@@ -67,3 +67,28 @@ Git tilan katsominen: `git status`
 
 ### Kuinka tieto menee Git:in ja Github:in välillä
 
+Kun halutaan kytkeä paikallinen työtiedosto GitHub repositorioon:
+
+´git remote add origin https://github.com/GitHubTunnus/GitHubRepositorio.git`
+
+Tämän jälkeen kytkeminen vahvistetaan komennolla:
+
+`git remote -v`
+
+Sitten työnnetään työkansion tiedot GitHubiin:
+
+`git push -u origin master`
+
+
+Jos halutaan synkronoida tietoja GitHubista paikalliseen työkansioon:
+
+`git fetch`
+
+Tietojen lataaminen GitHubista paikalliseen työtiedostoon:
+
+`git pull`
+
+
+
+### Mikä on branch?
+
