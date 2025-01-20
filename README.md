@@ -69,7 +69,7 @@ Git tilan katsominen: `git status`
 
 Kun halutaan kytkeä paikallinen työtiedosto GitHub repositorioon:
 
-´git remote add origin https://github.com/GitHubTunnus/GitHubRepositorio.git`
+´git remote add origin https:/github.com/GitHubTunnus/GitHubRepositorio.git`
 
 Tämän jälkeen kytkeminen vahvistetaan komennolla:
 
@@ -91,4 +91,13 @@ Tietojen lataaminen GitHubista paikalliseen työtiedostoon:
 
 
 ### Mikä on branch?
+
+Branch eli Git haara on ominaisuus, joka mahdollistaa haarassa olevien tietojen muuttamisen, ilman että muutokset vaikuttavat työkansion muihin tiedostoihin.
+
+**Komentoja:**
+
+`git branch` - listaa haarat
+`git branch haaran_nimi` - lisää haaran
+`git merge haaran_nimi` - yhdistää haaran main/master päähaaraan
+`git branch -d uusibranch` - poistaa haaran
 
