@@ -97,7 +97,10 @@ Branch eli Git haara on ominaisuus, joka mahdollistaa haarassa olevien tietojen 
 **Komentoja:**
 
 `git branch` - listaa haarat
+
 `git branch haaran_nimi` - lisää haaran
+
 `git merge haaran_nimi` - yhdistää haaran main/master päähaaraan
+
 `git branch -d uusibranch` - poistaa haaran
 
