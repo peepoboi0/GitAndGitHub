@@ -14,4 +14,13 @@ Syyt versionhallintaan:
 
 **Mikä on Git?**
 
-Git on versionhallinta menetelmä
+Git on versionhallinta menetelmä, joka ottaa "kuvan" nykyisestä tiedoston tilasta ja tallentaa tämän snapshotiksi.
+
+**Mikä on GitHub?**
+
+GitHub on palvelu, joka mahdollistaa tiedon jakamisen muille samojen tietojen parissa työskenteleville henkilöille. GitHubissa voi myös pitää Git-muotoisia varastoja *(Repository)*.
+
+GitHub toimii myös paikkana, jonne varmuuskopioida tiedostot. 
+
+---
+
