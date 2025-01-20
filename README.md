@@ -1,5 +1,8 @@
 # GitAndGitHub
 
+![alt text](githublogo.png)
+
+
 **Mitä on versiohallinta?** 
 
 Versionhallinta on menetelmä, joka auttaa säilömään tietoa ja erilaisia muutoksia, joita siihen on tehty. 
