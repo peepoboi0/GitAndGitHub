@@ -34,4 +34,19 @@ Git koostuu järjestelmänä kolmesta osasta:
 
 ### Git:in kanssa työskentely:
 
-Ensimmäisenä käytetään komentoa: `git init`
+**Git:in käyttöönotto:**
+
+Ensimmäisenä käytetään komentoa halutussa työkansiossa: `git init`
+Tämän jälkeen määritetään käyttäjänimi: `git config user.name "Etunimi Sukunimi"`
+Määritetään sähköpostiosoite: `git config --global user.email "abc.defg@esimerkki.com"`
+Katsotaan tallennetut tiedot: `git config --list --global`
+
+**Git:in peruskomentoja:**
+
+Tietoa lisätään Git:in indeksiin komennolla: `git add <tiedosto>`
+Tiedon *committaaminen* indeksistä: `git commit -m "viesti"`
+Commit listaaminen: `git log` tai `git log --oneline`
+Git tilan katsominen: `git status`
+
+### Kuinka tieto menee Git:in ja Github:in välillä
+
