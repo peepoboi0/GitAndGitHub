@@ -37,8 +37,11 @@ Git koostuu järjestelmänä kolmesta osasta:
 **Git:in käyttöönotto:**
 
 Ensimmäisenä käytetään komentoa halutussa työkansiossa: `git init`
+
 Tämän jälkeen määritetään käyttäjänimi: `git config user.name "Etunimi Sukunimi"`
+
 Määritetään sähköpostiosoite: `git config --global user.email "abc.defg@esimerkki.com"`
+
 Katsotaan tallennetut tiedot: `git config --list --global`
 
 **Git:in peruskomentoja:**
