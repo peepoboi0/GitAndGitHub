@@ -32,3 +32,6 @@ Git koostuu järjestelmänä kolmesta osasta:
 2. Git indeksi *(staging area)*
 3. Paikallinen versionhallinta repositorio .git hakemistossa *(local .git)*
 
+### Git:in kanssa työskentely:
+
+Ensimmäisenä käytetään komentoa: `git init`
