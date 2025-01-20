@@ -29,6 +29,8 @@ GitHub toimii myös paikkana, jonne varmuuskopioida tiedostot.
 
 ---
 
+![alt text](.jpg)
+
 
 ### Git:in käyttö
 
